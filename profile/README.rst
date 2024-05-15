@@ -1,8 +1,8 @@
 # Welcome to Kashmir Intelligence 👋
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile/images/Horizontal-Black-Invert.png">
-  <source media="(prefers-color-scheme: light)" srcset="profile/images/Horizontal-Red.png">
+  <source media="(prefers-color-scheme: dark)" srcset=".github/profile/images/Horizontal-Black-Invert.png">
+  <source media="(prefers-color-scheme: light)" srcset=".github/profile/images/Horizontal-Red.png">
   <img alt="Adaptive image">
 </picture>
 
