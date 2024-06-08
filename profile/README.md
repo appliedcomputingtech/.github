@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/images/Horizontal-Black-Invert.png">
   <source media="(prefers-color-scheme: light)" srcset="profile/images/Horizontal-Red.png">
-  <img alt="Adaptive image">
+  <img alt="Adaptive image" style="width: 50%; height: auto;">
 </picture>
 
 ## Our Mission 🚀
