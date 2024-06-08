@@ -42,3 +42,4 @@ Do you share our vision of harnessing AI to address the most profound challenges
 
 Let's make history.
 Email: sam@kashmirintelligence.com
+URL: kashmirintelligence.com
