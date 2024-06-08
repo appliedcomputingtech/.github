@@ -1,4 +1,4 @@
-# Welcome to Kashmir Intelligence 👋:kashmir-red:
+# Welcome to Kashmir Intelligence 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="profile/images/Horizontal-Black-Invert.png">
