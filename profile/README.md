@@ -8,26 +8,37 @@
 
 ## Our Mission 🚀
 
-AI has permeated our lives in ways we couldn't even imagine a decade ago. From large language models (LLMs), image generation and personalised recommendations, AI's accomplishments in the tech sector are undeniable. AI innovation is dominated by a small group of tech companies, where the landscape comprises of models produced for mostly general internet use, forming an "AI Oligopoly". This is reflected in models uploaded and used at the world’s most popular model hubs such as HuggingFace and PyTorch we found 95% of models are for general internet use (natural images and natural text), 3% are for social media networking graphs, and the remaining 2% are for time series use. Industrial sectors, however, lack representation in these hubs, with virtually no models dedicated to their specific needs, hindered by challenges like data privacy and outdated infrastructure.
+The world faces enormous challenges: energy shortages, clean water scarcity, and the need for sustainable food production. Despite AI's remarkable achievements in recent years, the technology remains largely confined to general internet use, dominated by a small group of tech giants. This "AI Oligopoly" neglects the critical needs of industrial sectors, where AI can have the most transformative impact.
 
 **We want to bridge this gap, by being the new hub for delivery narrow, adaptable and scalable AI for industry**
 
-## Our research Focus 🔥
-The barriers before us are formidable, but not insurmountable. By crafting a stack of AI tools tailored to meet the specific needs of these industries, I believe we can break down these barriers:
-1. **Federated Learning**: To deploy models on a decentralised network of IoT sensors and share insights across models without compromising privacy
-2. **Meta Learning**: Hyper-specialised models purpose-built for industrial applications
-3. **Compression and Low Rand Adaptation**: to train and optimise models with minimal communication overhead
-4. **Generative AI**: For self-supervised representation Learning to overcome data heteroginiety of real-world data distribution
-5. **Reinforcement Learning**: for continuous feedback and optimisation
+## Our Purpose: Perfect Worlds Through Intelligent Machines 🔥
+We are dedicated to creating AI solutions that address these real-world problems. By focusing on narrow, adaptable, and scalable AI tailored to industry-specific needs, we aim to make a tangible difference.
 
-By leveraging this stack, we can navigate the challenges of data privacy, legacy systems, and continuous adaptation. This is the key to unlocking a new era of industrial AI that will be world-altering in its impact and performance.
+## Our research Focus 🔎
+Tackling these global issues requires overcoming significant barriers. We are developing a comprehensive stack of AI tools designed specifically for industrial applications:
+1. **Federated Learning**: Deploying models on decentralized networks of IoT sensors to share insights without compromising privacy
+2. **Meta Learning**: Creating hyper-specialized models for industrial applications
+3. **Compression and Low Rand Adaptation**: Training and optimizing models with minimal communication overhead
+4. **Generative AI**: Utilizing self-supervised representation learning to manage the heterogeneity of real-world data
+5. **Reinforcement Learning**: Enabling continuous feedback and optimization.
+
+With this technology stack, we can navigate issues of data privacy, legacy systems, and continuous adaptation, unlocking a new era of industrial AI that addresses critical global challenges.
 
 ## Who are we? 🤘
 
-We are researchers and engineers from academia and the energy sector, united by our goal to advance narrow AI for industrial usecase and our day-to-day lives through innovative research and practical solutions. 
+We are a team of researchers, engineers, and entrepreneurs united by our commitment to advancing narrow AI for industrial applications. Our innovative research and practical solutions are designed to transform industries and address some of the world's most pressing problems.
 
-**Interested in what we do? Get in touch 🤙**
-Let us come together, with our shared passion for AI and its potential, to channel our energies into creating AI solutions that can revolutionise core industries that are crucial to the lives of billions. This is our opportunity to leave an indelible mark on the world and to shape a future where AI's potential is fully realised, and its benefits extend to all sectors of our economy.
+## Our Values 🧭
+- **We Build Market-Owning Products**: Committed to creating industry-leading AI solutions 🏆
+- **We Need Good Information**: Emphasizing the importance of accurate and actionable data 📊
+- **We Are Committed**: Dedicated to our mission and goals with unwavering determination 💪
+- **We Think or Die**: Continuously innovating and evolving to stay ahead 💡
+
+
+**Join Us 🤙**
+Do you share our vision of harnessing AI to address the most profound challenges facing humanity? Connect with us! Together, we can unite our collective passion and expertise to develop AI solutions that sustain and nurture our planet's future.
+
 
 Let's make history.
 Email: sam@kashmirintelligence.com
