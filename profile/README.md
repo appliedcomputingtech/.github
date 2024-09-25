@@ -1,8 +1,6 @@
 # Welcome to Kashmir Intelligence 👋
 
-<p align="center">
-  <img src="profile/images/Welcome_Banner.png" alt="Banner">
-</p>
+<img src="profile/images/Welcome_Banner.png" alt="Banner" style="display: block; margin: 0 auto;">
 
 ## Our Mission 🚀
 
