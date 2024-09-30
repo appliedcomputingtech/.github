@@ -13,7 +13,7 @@
 
 ## Our Mission 🚀
 
-We're transforming downstream oil and gas refinery operations through advanced multi-agent AI systems, driving unprecedented process optimisation and efficiency.
+We're transforming heavy industry operations (particularly focused on downstream oil and gas refinery operations) through advanced multi-agent AI systems, driving unprecedented process optimisation and efficiency.
 
 ## Our Approach 🔎
 
@@ -31,7 +31,7 @@ We're transforming downstream oil and gas refinery operations through advanced m
 
 ## Join Us 🤝
 
-Partner with us to revolutionize your refinery operations and lead the industry in AI-driven optimization.
+We welcome researchers, developers, engineers, and industry partners to join our mission! Whether you're contributing code, sharing expertise, or implementing solutions, help us revolutionise Process Engineering R&D and make applied AI in heavy industry accessible to all. Together, we'll lead the way in AI-driven optimization for a more efficient and sustainable future.
 
 - **Contact:** [sam@kashmirintelligence.com](mailto:sam@kashmirintelligence.com)  
 - **Website:** [kashmirintelligence.com](https://www.kashmirintelligence.com)
