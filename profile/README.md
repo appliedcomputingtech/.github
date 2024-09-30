@@ -2,6 +2,13 @@
 
 <img src="./images/Welcome_Banner.png" alt="Banner" style="display: block; margin: 0 auto;">
 
+<div class="center badges">
+    <img src="https://img.shields.io/badge/Focus-Industrial%20AI-blue" alt="Focus: Industrial AI">
+    <img src="https://img.shields.io/badge/Mission-Solving%20Global%20Challenges-green" alt="Mission: Solving Global Challenges">
+    <img src="https://img.shields.io/badge/Approach-Narrow%20AI-orange" alt="Approach: Narrow AI">
+    <img src="https://img.shields.io/badge/Contact-sam%40kashmirintelligence.com-red" alt="Contact">
+</div>
+
 ## Our Mission 🚀
 
 The world faces enormous challenges: energy shortages, clean water scarcity, and the need for sustainable food production. Despite AI's remarkable achievements in recent years, the technology remains largely confined to general internet use, dominated by a small group of tech giants. This "AI Oligopoly" neglects the critical needs of industrial sectors, where AI can have the most transformative impact.
