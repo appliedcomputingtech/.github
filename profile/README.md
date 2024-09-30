@@ -19,7 +19,7 @@ We're transforming downstream oil and gas refinery operations through advanced m
 
 - **Multi-Agent Systems:** Collaborative AI for complex refinery processes
 - **Real-time Optimisation:** Continuous adaptation to changing dynamic conditions
-- **Data Integration:** Unifying diverse process data sources
+- **Data Integration:** Unifying diverse and multi-dimensional process data sources
 - **Predictive Analytics:** Anticipating and preventing process inefficiencies
 
 ## Our Impact 💡
@@ -35,3 +35,4 @@ Partner with us to revolutionize your refinery operations and lead the industry 
 
 **Contact:** [sam@kashmirintelligence.com](mailto:sam@kashmirintelligence.com)  
 **Website:** [kashmirintelligence.com](https://www.kashmirintelligence.com)
+**Slack Channel:** [Kahsmir Intelligence Open Source](https://join.slack.com/t/ki-opensource/shared_invite/zt-2rl9f552a-rgdTYrbVxX7clQed9FEXnw)
