@@ -33,6 +33,6 @@ We're transforming downstream oil and gas refinery operations through advanced m
 
 Partner with us to revolutionize your refinery operations and lead the industry in AI-driven optimization.
 
-**Contact:** [sam@kashmirintelligence.com](mailto:sam@kashmirintelligence.com)  
-**Website:** [kashmirintelligence.com](https://www.kashmirintelligence.com)
-**Slack Channel:** [Kahsmir Intelligence Open Source](https://join.slack.com/t/ki-opensource/shared_invite/zt-2rl9f552a-rgdTYrbVxX7clQed9FEXnw)
+- **Contact:** [sam@kashmirintelligence.com](mailto:sam@kashmirintelligence.com)  
+- **Website:** [kashmirintelligence.com](https://www.kashmirintelligence.com)
+- **Slack Channel:** [Kahsmir Intelligence Open Source](https://join.slack.com/t/ki-opensource/shared_invite/zt-2rl9f552a-rgdTYrbVxX7clQed9FEXnw)
