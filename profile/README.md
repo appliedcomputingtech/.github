@@ -1,38 +1,41 @@
+Kashmir Intelligence GitHub README
+Preview
+Code
+
 # Welcome to Kashmir Intelligence 👋
 
-<img src="./images/Welcome_Banner.png" alt="Banner" style="display: block; margin: 0 auto;">
+![Banner](./images/Welcome_Banner.png)
 
-<div class="center badges">
-    <img src="https://img.shields.io/badge/Focus-Industrial%20AI-blue" alt="Focus: Industrial AI">
-    <img src="https://img.shields.io/badge/Mission-Solving%20Global%20Challenges-green" alt="Mission: Applying AI in Heavy Industry">
-    <img src="https://img.shields.io/badge/Approach-Narrow%20AI-orange" alt="Approach: Self Supervised & Reinforcement Learning">
-    <img src="https://img.shields.io/badge/Contact-sam%40kashmirintelligence.com-red" alt="Contact">
+<div align="center">
+
+![Focus: Industrial AI](https://img.shields.io/badge/Focus-Industrial%20AI-blue)
+![Mission: Applying AI in Heavy Industry](https://img.shields.io/badge/Mission-Solving%20Global%20Challenges-green)
+![Approach: Self Supervised & Reinforcement Learning](https://img.shields.io/badge/Approach-Narrow%20AI-orange)
+![Contact](https://img.shields.io/badge/Contact-sam%40kashmirintelligence.com-red)
+
 </div>
 
-<h2>Our Mission 🚀</h2>
-    <p>We're transforming downstream oil and gas refinery operations through advanced multi-agent AI systems, driving unprecedented process optimization and efficiency.</p>
-    
-<h2>Our Approach 🔎</h2>
-    <ul>
-        <li><strong>Multi-Agent Systems:</strong> Collaborative AI for complex refinery processes</li>
-        <li><strong>Real-time Optimization:</strong> Continuous adaptation to changing conditions</li>
-        <li><strong>Data Integration:</strong> Unifying diverse refinery data sources</li>
-        <li><strong>Predictive Analytics:</strong> Anticipating and preventing process inefficiencies</li>
-        <li><strong>Sustainability Focus:</strong> Reducing energy consumption and emissions</li>
-    </ul>
-    
-<h2>Our Impact 💡</h2>
-    <ul>
-        <li>Enhanced Operational Efficiency</li>
-        <li>Reduced Downtime and Maintenance Costs</li>
-        <li>Improved Product Quality and Yield</li>
-        <li>Decreased Environmental Footprint</li>
-    </ul>
-    
-<h2>Join Us 🤝</h2>
-    <p>Partner with us to revolutionize your refinery operations and lead the industry in AI-driven optimization.</p>
-    
-    <p><strong>Contact:</strong> <a href="mailto:sam@kashmirintelligence.com">sam@kashmirintelligence.com</a><br>
-    <strong>Website:</strong> <a href="https://www.kashmirintelligence.com">kashmirintelligence.com</a></p>
-</body>
-</html>
+## Our Mission 🚀
+
+We're transforming downstream oil and gas refinery operations through advanced multi-agent AI systems, driving unprecedented process optimisation and efficiency.
+
+## Our Approach 🔎
+
+- **Multi-Agent Systems:** Collaborative AI for complex refinery processes
+- **Real-time Optimisation:** Continuous adaptation to changing dynamic conditions
+- **Data Integration:** Unifying diverse process data sources
+- **Predictive Analytics:** Anticipating and preventing process inefficiencies
+
+## Our Impact 💡
+
+- Enhanced Operational Efficiency
+- Reduced Downtime and Maintenance Costs
+- Improved Product Quality and Yield
+- Decreased Environmental Footprint
+
+## Join Us 🤝
+
+Partner with us to revolutionize your refinery operations and lead the industry in AI-driven optimization.
+
+**Contact:** [sam@kashmirintelligence.com](mailto:sam@kashmirintelligence.com)  
+**Website:** [kashmirintelligence.com](https://www.kashmirintelligence.com)
