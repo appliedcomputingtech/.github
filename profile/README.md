@@ -1,17 +1,13 @@
-Kashmir Intelligence GitHub README
-Preview
-Code
-
 # Welcome to Kashmir Intelligence 👋
 
 ![Banner](./images/Welcome_Banner.png)
 
 <div align="center">
 
-![Focus: Industrial AI](https://img.shields.io/badge/Focus-Industrial%20AI-blue)
-![Mission: Applying AI in Heavy Industry](https://img.shields.io/badge/Mission-Solving%20Global%20Challenges-green)
-![Approach: Self Supervised & Reinforcement Learning](https://img.shields.io/badge/Approach-Narrow%20AI-orange)
-![Contact](https://img.shields.io/badge/Contact-sam%40kashmirintelligence.com-red)
+![Focus: Industrial AI](https://img.shields.io/static/v1?label=Focus&message=Industrial%20AI&color=blue)
+![Mission: Applying AI in Heavy Industry](https://img.shields.io/static/v1?label=Mission&message=Applying%20AI%20in%20Heavy%20Industry&color=green)
+![Approach: Self Supervised & Reinforcement Learning](https://img.shields.io/static/v1?label=Approach&message=Self%20Supervised%20%26%20Reinforcement%20Learning&color=orange)
+![Contact](https://img.shields.io/static/v1?label=Contact&message=sam%40kashmirintelligence.com&color=red)
 
 </div>
 
