@@ -13,11 +13,15 @@
 
 ## Our Mission 🚀
 
-We're transforming heavy industry operations (particularly focused on downstream oil and gas refinery operations) through advanced multi-agent AI systems, driving unprecedented process optimisation and efficiency.
+Applied Computing; our vision is to deliver sustainable abundance for a growing planet, through AI that works for the Energy Industry.
+These industries are an enduring necessity, they power our planet, but their complexity has kept them tethered to legacy systems. These critical industries utilise less than 10% of their data for decision making and process optimisation.
+Our flagship product, Orbital, is a Multi-Foundation AI system that enables these industries to finally trust AI in the control room, harness 100% of their data and optimise in real time for any metric unlocking faster decisions, safer operations, and higher performance.
+With Orbital, we aim to transform how engineers and operators understand, and optimise their plants using trustworthy, physics-grounded AI.
+This isn’t the future of Industrial AI, this is the first time it’s worked.
 
 ## Our Approach 🔎
 
-- **Multi-Agent Systems:** Collaborative AI for complex refinery processes
+- **Multi-Agent Systems:** Applied AI for Energy Opeations
 - **Real-time Optimisation:** Continuous adaptation to changing dynamic conditions
 - **Data Integration:** Unifying diverse and multi-dimensional process data sources
 - **Predictive Analytics:** Anticipating and preventing process inefficiencies
